@@ -5,7 +5,7 @@ Digitizing 1,340 coffee reviews
 Data
 These data contain reviews of 1339 coffee beans from the Coffee Quality Institute's trained reviewers. The features include:
 
-Quality Measures
+Quality Measures:
 Aroma
 Flavor
 Aftertaste
@@ -17,11 +17,14 @@ Cup Cleanliness
 Sweetness
 Moisture
 Defects
-Bean Metadata
+
+Bean Metadata:
+
 Processing Method
 Color
 Species (arabica / robusta)
-Farm Metadata
+
+Farm Metadata:
 Owner
 Country of Origin
 Farm Name
