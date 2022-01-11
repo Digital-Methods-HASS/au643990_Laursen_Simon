@@ -19,7 +19,6 @@ Moisture
 Defects
 
 Bean Metadata:
-
 Processing Method
 Color
 Species (arabica / robusta)
