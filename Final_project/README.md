@@ -1,5 +1,5 @@
 # au643990_Laursen_Simon
-coffee-quality-database
+merged_data_cleaned.csv
 Digitizing 1,340 coffee reviews
 
 Data
