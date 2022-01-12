@@ -1,6 +1,6 @@
 # au643990_Laursen_Simon
 merged_data_cleaned.csv
-Digitizing 1,340 coffee reviews
+contain the digitizing 1,339 coffee reviews
 
 Data:
 These data contain reviews of 1339 coffee beans from the Coffee Quality Institute's trained reviewers. The features include:
